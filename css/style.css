@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+.timer-box {
+    background-color: white;
+    width: 300px;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+button {
+    padding: 10px 25px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 15px;
+}
